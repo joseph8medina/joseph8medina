@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joseph8medina&label=Profile%20views&color=0e75b6&style=flat" alt="joseph8medina" /> </p>
 
-- 🔭 I have completed a number of projects for numerous classes including Artificial Intelligence, Database Systems, and Software Engineering. I am currently working on a couple of Game Programming Projects. **Data Comparison using Data.Ca.Gov**
+- 🔭 I have completed a number of projects for numerous classes including Artificial Intelligence, Database Systems, and Software Engineering. I am currently working on a couple of Game Programming Projects. 
 
 - 🌱 I’m currently learning **C++, Python, HTML and CSS, and SQL**
 

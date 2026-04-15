@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Joseph Medina</h1>
-<h3 align="center">I am a transfer student from the RCCD and currently attend Cal State University San Bernardino</h3>
+<h3 align="center">I am a transfer student from the RCCD and currently attend California State University San Bernardino</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joseph8medina&label=Profile%20views&color=0e75b6&style=flat" alt="joseph8medina" /> </p>
 
-- 🔭 I’m currently working on multiple projects for my Software Engineering and Digital Logic courses. **Data Comparison using Data.Ca.Gov**
+- 🔭 I have completed a number of projects for numerous classes including Artificial Intelligence, Database Systems, and Software Engineering. I am currently working on a couple of Game Programming Projects. **Data Comparison using Data.Ca.Gov**
 
-- 🌱 I’m currently learning **C++, Python, HTML and CSS**
+- 🌱 I’m currently learning **C++, Python, HTML and CSS, and SQL**
 
 - 👯 I’m looking to collaborate on **Python or C++ Projects**
 
